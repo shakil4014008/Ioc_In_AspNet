@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>UnityLocal</id>
+    <version>1.0.1</version>
+    <title>Unity</title>
+    <authors>Modified Local</authors>
+    <owners>Modified Local</owners>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <projectUrl>http://unity.codeplex.com/</projectUrl>
+    <iconUrl>http://nuget.org/Media/Default/Packages/Unity/2.0/entlib_new_icon_100x100.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Unity Application Block (Unity) is a lightweight extensible dependency injection container with support for constructor, property, and method call injection. It facilitates loosely-coupled design. Declarative configuration and registration by convention are supported on selected platforms.</description>
+    <summary>The Unity Application Block (Unity) is a lightweight extensible dependency injection container with support for constructor, property, and method call injection.</summary>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <tags>Unity Unity3 Unity35 mvc webpi</tags>
+  </metadata>
+</package>
